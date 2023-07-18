@@ -1,4 +1,4 @@
-# LiveFaceRecognition
+# LiveFaceRecognition Using VGG-Face 
 
 ## this model is used to detect live faces and can distinguish between a person and a picture using blink-detection
 
